@@ -1,0 +1,27 @@
+---
+
+namespace: "tdworz"
+name: "security"
+version: 0.0.1
+
+description: An Ansible collection to help with the security of systems.
+
+authors:
+  - Tom "tdworz" Dworzanski <tom@dworzanski.com>
+
+readme: README.md
+license:
+  - GPL-3.0-or-later
+
+repository: https://github.com/tdworz/ansible-collection-security
+issues: https://github.com/tdworz/ansible-collection-security/issues
+
+tags:
+  - security
+  - firewall
+  - mandatory_access_control
+  - root
+  - firewalld
+  - selinux
+
+dependencies: {}
