@@ -1,0 +1,9 @@
+[submodule "roles/firewalld"]
+	path = roles/firewalld
+	url = https://github.com/tdworz/ansible-role-firewalld
+[submodule "roles/selinux"]
+	path = roles/selinux
+	url = https://github.com/tdworz/ansible-role-selinux
+[submodule "roles/secure_root"]
+	path = roles/secure_root
+	url = https://github.com/tdworz/ansible-role-secure_root
